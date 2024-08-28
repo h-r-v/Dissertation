@@ -43,10 +43,10 @@ times-impact-of-patch-size.ipynb - training time comparision: base vs '5 Layer U
 <br>
 base checkpoints - https://www.kaggle.com/code/hrv000/patch-small
 <br>
-7 Layer UNet - https://www.kaggle.com/code/hrv000/patch-bigmodel
+7 Layer UNet checkpoints - https://www.kaggle.com/code/hrv000/patch-bigmodel
 <br>
-5 Layer UNet with Augmentation - https://www.kaggle.com/code/hrv000/patch-smodel-aug
+5 Layer UNet with Augmentation checkpoints - https://www.kaggle.com/code/hrv000/patch-smodel-aug
 <br>
-5 Layer UNet with DiceFocalLoss - https://www.kaggle.com/code/hrv000/patch-dicefocalloss
+5 Layer UNet with DiceFocalLoss checkpoints - https://www.kaggle.com/code/hrv000/patch-dicefocalloss
 <br>
-5 Layer UNet with (96,96,96) patch size - https://www.kaggle.com/code/hrv000/spatch-small
+5 Layer UNet with (96,96,96) patch size checkpoints - https://www.kaggle.com/code/hrv000/spatch-small
