@@ -39,3 +39,14 @@ times-impact-of-augmentation.ipynb - training time comparision: base vs '5 Layer
 times-impact-of-loss-function.ipynb - training time comparision: base vs '5 Layer UNet with DiceFocalLoss (4)'
 <br>
 times-impact-of-patch-size.ipynb - training time comparision: base vs '5 Layer UNet with (96,96,96) patch size'
+<br>
+<br>
+base checkpoints - https://www.kaggle.com/code/hrv000/patch-small
+<br>
+7 Layer UNet - https://www.kaggle.com/code/hrv000/patch-bigmodel
+<br>
+5 Layer UNet with Augmentation - https://www.kaggle.com/code/hrv000/patch-smodel-aug
+<br>
+5 Layer UNet with DiceFocalLoss - https://www.kaggle.com/code/hrv000/patch-dicefocalloss
+<br>
+5 Layer UNet with (96,96,96) patch size - https://www.kaggle.com/code/hrv000/spatch-small
